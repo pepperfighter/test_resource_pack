@@ -2,5 +2,11 @@
   "item.minecraft.porkchop": "Raw Bacon",
   "item.minecraft.cooked_porkchop": "Cooked Bacon",
   "item.minecraft.potion.effect.water": "\"Poison\" Bottle",
-  "item.minecraft.water_bucket": "\"Poison\" Bucket"
+  "item.minecraft.water_bucket": "\"Poison\" Bucket",
+  "item.minecraft.beef": "Raw MTT Steak",
+  "item.minecraft.cooked_beef": "Cooked MTT Steak",
+  "item.minecraft.mutton": "Raw Shwoop",
+  "item.minecraft.cooked_mutton": "Cooked Shwoop",
+  "selectServer.select": "o/",
+  "menu.disconnect": "o7"
 }
